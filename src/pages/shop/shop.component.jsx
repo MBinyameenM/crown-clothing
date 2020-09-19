@@ -8,7 +8,7 @@ class Shop extends React.Component{
     {
         super();
         this.state = {
-            collection: SHOP_DATA,
+            collection: SHOP_DATA
         };
     }
 
